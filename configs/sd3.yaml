@@ -1,0 +1,14 @@
+model:
+  name: "sd3"
+  params:
+    model_id: "stabilityai/stable-diffusion-3-medium-diffusers"
+    num_inference_steps: 28
+    guidance_scale: 7.0
+    seed_num: 34
+  output:
+    images: "output"
+  train:
+    model_name: "models/lora-trained-xl"
+
+prompts:
+  fpath: "configs/prompts.txt"

@@ -1,0 +1,9 @@
+[FORMAT]
+max-line-length = 88
+
+[MESSAGES CONTROL]
+disable = C0301, C0114
+
+[DESIGN]
+good-names=i,j,k,ex,Run,_,f
+max-args = 8

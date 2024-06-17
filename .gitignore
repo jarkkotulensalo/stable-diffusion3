@@ -1,0 +1,7 @@
+.vscode
+models/*
+*.mp4
+output/*
+diffusers/*
+dog/*
+data/*
