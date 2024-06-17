@@ -30,3 +30,7 @@ Other configs are specified in configs/sd3.yaml
 
 ### output
 You can find the generated images at output folder
+
+| ![Example Image 1](examples/cat_wizard_gandalf_lord_of_the_rings_detailed_fant.png) | ![Example Image 2](examples/john_snow_from_game_of_thrones_is_showing_a_sign.png) |
+|-----------------------------------------|-----------------------------------------|
+| ![Example Image 3](examples/shrek_showing_a_sign_that_says_happy_birthday_john.png) | ![Example Image 4](examples/mickey_mouse_holding_a_sign_rahaa_on_with_a_happ.png) |
