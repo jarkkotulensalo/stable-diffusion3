@@ -1,4 +1,7 @@
-# Stable Diffusion 3 (SD3) inference example
+# Stable Diffusion 3 (SD3) inference with <16GB memory
+
+We use the 8-bit quantised version of T5-XXL encoder following the tutorial on https://huggingface.co/blog/sd3.
+This allows inference in less than 16GB of memory.
 
 ## Running locally with PyTorch
 

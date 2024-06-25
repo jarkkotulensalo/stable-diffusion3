@@ -5,3 +5,4 @@ output/*
 diffusers/*
 dog/*
 data/*
+*.pyc
