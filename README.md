@@ -12,7 +12,7 @@ Before running the scripts, make sure to install the library's training dependen
 ```bash
 conda env create -f env.yaml
 
-conda activate stable-diffusion3
+conda activate sd3
 ```
 
 Then run
